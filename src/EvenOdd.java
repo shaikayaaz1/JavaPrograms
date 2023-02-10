@@ -7,7 +7,7 @@ public class EvenOdd{
 
         int x = 120;
 
-        int y = 225;
+        int y = 220;
 
         int sum = x + y;
 
