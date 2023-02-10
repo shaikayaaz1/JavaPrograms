@@ -5,7 +5,7 @@ public class EvenOdd{
 
     public static void main(String[] args) {
 
-        int x = 100;
+        int x = 120;
 
         int y = 425;
 
